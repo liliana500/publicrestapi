@@ -1,0 +1,6 @@
+initialize libraries (serveroutput)
+declare int variables for input called a, b, c
+begin method
+create function for c = a+b
+print to the database a string of text and summed variables
+end
